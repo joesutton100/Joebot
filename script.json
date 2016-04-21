@@ -1,7 +1,20 @@
 {
-    "HELLO": "Hey, I'm so glad you set EstherBot up!",
-    "TWITTER": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: http://bit.ly/estherbot-tweet",
-    "I LOVE YOU": "Awh, shucks! I love you too!",
+    "LATEST":
+    "BEGIN": "Cool, let's start! Just a heads-up: I only respond to specific keywords. You're probably most interested in Joe's CAREER or EDUCATION. You can also ask about his POETRY, or for the LATEST news. You'll encounter more options as we chat!",
+    "CAREER": "Joe has about 6 years of experience writing for the web. With excellent communication and writing skills, he loves to research topics big and small and present them in a way that any reader can understand. He's written for BLOGS and PRINT, written MARKETING materials, and does some PROOFREADING work as well. Interested in his POETRY? Just ask!",
+    "BLOGS": "Joe began his freelance career blogging for BROOKLYN EXPOSED, for whom he covered local events. He's a current contributor at INDIEREADER, where he regularly features self-published authors and their books. While studying at PRATT, Joe took an internship at the Ground Magazine where he blogged about ART.",
+    "BROOKLYN EXPOSED": "Brooklyn Exposed was a website focused on keeping people in-the-know about what was going on in the city's best borough. Joe covered local events, but his niche was in showcasing ART shows and reviews. Wanna know Joe's FAVORITE thing he covered for the site?",
+    "FAVORITE": "Joe had a lot of privileged opportunities while working with Brooklyn Exposed, but he says the coolest moment was when he visited Danny Simmons. The neo-African abstract expressionist painter--brother of Russell Simmons and Rev Run--has a beautiful home filled with traditional African art in Crown Heights. Joe was taken aback by the beautiful collection!",
+    "INDIEREADER":
+    "PRATT":
+    "ART":
+    "PRINT":
+    "MARKETING":
+    "PROOFREADING":
+    "EDUCATION":
+    "POETRY": 
+    "TWITTER": 
+    "I LOVE YOU": "Aw, thanks! You're too kind.",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, EstherBot is back."
 }
