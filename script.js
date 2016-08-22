@@ -44,7 +44,7 @@ module.exports = new Script({
                 }
 
                 if (!_.has(scriptRules, upperText)) {
-                    return bot.say(`🚨 I didn't understand that. Remember, I only respond to specific keywords!`).then(() => 'speak');
+                    return bot.say(`🚨 I didn't understand that. Remember, I only respond to specific keywords! You can say BEGIN to return to a good starting point.`).then(() => 'speak');
                 }
 
                 var response = scriptRules[upperText];
